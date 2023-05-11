@@ -12,3 +12,5 @@ develop with [@uni-zhuan](https://github.com/uni-zhuan)
 (base) ➜ [/Users/richard] help 查找当前目录下所有以.py结尾的文件，提取到当前目录的上一层
 find . -name '*.py' -exec mv {} .. \;
 ```
+
+Note : The shell command has been pasted into the clipboard, just use command+v to paste it
